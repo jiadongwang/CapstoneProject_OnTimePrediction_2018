@@ -1,0 +1,24 @@
+GB Accuracy: 96.88%
+Recall: 84.63%
+Confusion matrix:
+[[15951     2]]
+  [622    3425]]
+Area under the ROC curve: 0.2304720893568144
+DT Accuracy: 97.60%
+Recall: 91.21%
+Confusion matrix:
+[[15652  301]
+ [ 179  3868]]
+Area under the ROC curve: 0.08897866897968357
+RF Accuracy: 96.91%
+Recall: 87.76%
+Confusion matrix:
+[[15871    82]
+ [4536   3511]]
+Area under the ROC curve: 0.395873395710579561
+[LibLinear]LR Accuracy: 98.70%
+Recall: 86.80%
+Confusion matrix:
+[[15951     2]
+ [  299  3748]]
+Area under the ROC curve: 1.2384950934681314e-05
